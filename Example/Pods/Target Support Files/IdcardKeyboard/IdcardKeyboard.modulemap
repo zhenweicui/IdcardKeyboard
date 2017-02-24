@@ -1,0 +1,6 @@
+framework module IdcardKeyboard {
+  umbrella header "IdcardKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_IdcardKeyboard_Example {
+  umbrella header "Pods-IdcardKeyboard_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
